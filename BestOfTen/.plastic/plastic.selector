@@ -1,0 +1,4 @@
+repository "ProjetBOT@LessAnYear@cloud"
+  path "/"
+    br "/main"
+    co "/main"
